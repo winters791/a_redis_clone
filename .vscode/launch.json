@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/udaysingh/College/projects/redis_clone",
+      "program": "/Users/udaysingh/College/projects/redis_clone/build/Debug/outDebug"
+    }
+  ]
+}
